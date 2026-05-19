@@ -1,0 +1,25 @@
+# LaTeX auxiliary files
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+*.tex.backup
+*.pdfsync
+*.synctex
+*.synctex.gz
+
+# Generated PDF (LaTeX output)
+# Un-comment the line below if you do NOT want to track compiled PDF files in git
+# *.pdf
+
+# System & IDE files
+.DS_Store
+.vscode/
+.idea/
