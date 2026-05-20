@@ -23,3 +23,8 @@
 .DS_Store
 .vscode/
 .idea/
+
+# Scratch, cache, and checkpoints
+scratch/
+__pycache__/
+.ipynb_checkpoints/
